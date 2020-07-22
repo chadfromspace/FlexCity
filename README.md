@@ -19,11 +19,8 @@ Note: Make sure to run npm install as this application makes use of node package
 ### Usage
 To use the application, the user can visit the site and select from the options available on the homepage.The user can also provide feedback to the Flex City team by navigating to this link. Note, the team still needs to update the UI so the user can navigate to this page from the site. 
 
-Link to site: https://blooming-coast-09812.herokuapp.com/
-Link to mail site: https://blooming-coast-09812.herokuapp.com/mail
-
-
-
+Link to site: https://flexcity.herokuapp.com/  
+Link to mail site: https://flexcity.herokuapp.com/mail
 
 ### Example Homepage:
 ![Alt Text](public/assets/images/flex-city.png)
